@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/IVS/Lab1/Coder.srcs/sources_1/new/Source.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Source
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/IVS/Lab1/Coder.srcs/sim_1/new/Testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Testbench
+INFO: [VRFC 10-2458] undeclared symbol sign, assumed default net type wire [E:/IVS/Lab1/Coder.srcs/sim_1/new/Testbench.v:18]
+INFO: [VRFC 10-2458] undeclared symbol value, assumed default net type wire [E:/IVS/Lab1/Coder.srcs/sim_1/new/Testbench.v:18]
+INFO: [VRFC 10-2458] undeclared symbol prev_value, assumed default net type wire [E:/IVS/Lab1/Coder.srcs/sim_1/new/Testbench.v:18]

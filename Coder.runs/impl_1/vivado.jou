@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Oct  2 00:34:28 2022
+# Process ID: 14596
+# Current directory: E:/IVS/Lab1/Coder.runs/impl_1
+# Command line: vivado.exe -log Source.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Source.tcl -notrace
+# Log file: E:/IVS/Lab1/Coder.runs/impl_1/Source.vdi
+# Journal file: E:/IVS/Lab1/Coder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Source.tcl -notrace
